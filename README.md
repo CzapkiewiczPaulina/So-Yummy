@@ -2,7 +2,8 @@
 
 INTRODUCTION
 
-The project was carried out as part of the QA course organized via the GOIT educational platform and took place between October 2 and October 9, 2023. The group project aimed to confirm professional competencies related to performing the QA profession at the Junior level.
+The project was carried out as part of the QA course organized via the GOIT educational platform and took place between October 2 and October 9, 2023.
+The group project aimed to confirm professional competencies related to performing the QA profession at the Junior level.
 
 
 PROJECT
@@ -24,10 +25,11 @@ following
 
 
 TESTING BASIS
-The “SO-YUMMY” application website is available at https://so-yummi-qa.netlify.app/
-Specification for testing the website with Swagger UI https://backend-soyummy.onrender.com/api-docs/
-Technical specifications of the application, available at https://docs.google.com/spreadsheets/d/1-NXjZd4w8uBRL9lDsl424202Vl9LbWKRLZ4sgL3Hj7c/edit#gid=0
-UI Layout in Figma https://www.figma.com/file/rj6kSC63HyaVsHXqMtt3Cv/So-Yummy?type=design&node-id=0-1&mode=design
+
+The “SO-YUMMY” application website is available at   https://so-yummi-qa.netlify.app/
+Specification for testing the website with Swagger UI   https://backend-soyummy.onrender.com/api-docs/
+Technical specifications of the application, available at   https://docs.google.com/spreadsheets/d/1-NXjZd4w8uBRL9lDsl424202Vl9LbWKRLZ4sgL3Hj7c/edit#gid=0
+UI Layout in Figma     https://www.figma.com/file/rj6kSC63HyaVsHXqMtt3Cv/So-Yummy?type=design&node-id=0-1&mode=design
 
 
 WORK PLAN
