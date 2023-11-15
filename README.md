@@ -51,18 +51,20 @@ The group project aimed to confirm professional competencies related to performi
 
 
 <p>The technical specification was divided into 12 chapters, an additional task, API tests using Swagger, and conclusions and opinions of the entire group. Work on the project was divided among all members of the project team:</p>
-Chapters 1 and 2. Home page/Login using the form.
-Chapter 3. Heading.
-Chapter 4. Home page.
-Chapter 5. “Categories” page.
-Chapter 6. “Add recipe” page.
-Chapter 7. “Favorite” page.
-Chapter 8. Selected recipe page.
-Chapter 9. “My recipes” page.
-Chapter 10. “Search” page
-Chapter 11. “Shopping list” page
-Chapter 12. Footer
-
+<ol>
+<li>Chapters 1 and 2. Home page/Login using the form.</li>
+<li>Chapter 3. Heading.</li>
+<li>Chapter 3. Heading.</li>
+<li>Chapter 4. Home page.</li>
+<li>Chapter 5. “Categories” page.</li>
+<li>Chapter 6. “Add recipe” page.</li>
+<li>Chapter 7. “Favorite” page.</li>
+<li>Chapter 8. Selected recipe page.</li>
+<li>Chapter 9. “My recipes” page.</li>
+<li>Chapter 10. “Search” page</li>
+<li>Chapter 11. “Shopping list” page</li>
+<li>Chapter 12. Footer</li>
+</ol>
 
 Additional task - motivational modal window.
 API tests using Swagger.
