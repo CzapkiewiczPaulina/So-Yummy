@@ -51,7 +51,7 @@ The group project aimed to confirm professional competencies related to performi
 
 
 <p>The technical specification was divided into 12 chapters, an additional task, API tests using Swagger, and conclusions and opinions of the entire group. Work on the project was divided among all members of the project team:</p>
-<ol>
+<ul>
 <li>Chapters 1 and 2. Home page/Login using the form.</li>
 <li>Chapter 3. Heading.</li>
 <li>Chapter 3. Heading.</li>
@@ -64,7 +64,7 @@ The group project aimed to confirm professional competencies related to performi
 <li>Chapter 10. “Search” page</li>
 <li>Chapter 11. “Shopping list” page</li>
 <li>Chapter 12. Footer</li>
-</ol>
+</ul>
 
 Additional task - motivational modal window.
 API tests using Swagger.
